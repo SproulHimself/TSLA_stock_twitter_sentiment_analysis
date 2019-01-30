@@ -17,19 +17,19 @@
 
 ## Model Performane
 
-![header](Images/model.png)
+![header](images/model.png)
 
 ## Explanatory Data Analysis
 
-![header](Images/signal.png)
+![header](images/signal.png)
 
-![header](Images/target.png)
+![header](images/target.png)
 
-![header](Images/acc.png)
+![header](images/acc.png)
 
-![header](Images/confusion.png)
+![header](images/confusion.png)
 
-![header](Images/loss.png)
+![header](images/loss.png)
 
 
 ## Takeaways & Shortcoming
