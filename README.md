@@ -13,24 +13,22 @@
 ### Context of word "rocket" in relation to similar words
 ![Alt Text](https://media.giphy.com/media/2zdVg642X8IyK7C51I/giphy.gif)
 
-![header](images/tensorboard.png)
+<img src="images/tensorboard.png" width="200">
 
 ## Model Performane
 
-![header](images/model.png)
-
+<img src="images/model.png" width="500">
 ## Explanatory Data Analysis
 
-![header](images/signal.png)
+<img src="images/signal.png" width="200">
 
-![header](images/target.png)
+<img src="images/target.png" width="200">
 
-![header](images/acc.png)
+<img src="images/acc.png" width="200">
 
-![header](images/confusion.png)
+<img src="images/confusion.png" width="200">
 
-![header](images/loss.png)
-
+<img src="images/loss.png" width="200">
 
 ## Takeaways & Shortcoming
 We did not have enough data to significantly increase the accuracy of our results. Going forward we are looking to get more data from other CEOs and influencers on twitter
