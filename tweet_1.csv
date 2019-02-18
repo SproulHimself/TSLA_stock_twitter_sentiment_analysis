@@ -1,6 +1,0 @@
-round_epochs,acc,loss,val_acc,val_loss,optimizer,dropout,batch_size,epochs,hidden_layers,weight_regulizer,emb_output_dims,last_activation,lr,first_neuron,activation
-100,0.3388319298578489,1.4754363138442905,0.3440748533222383,1.484004392941132,2,<function softmax at 0x1a29e58578>,0.0,18,None,100,0.0,32,<class 'keras.optimizers.Adam'>,None,relu
-100,0.31921534555807635,1.0995327539333424,0.29625780449835526,1.0990983120740823,0,<function softmax at 0x1a29e58578>,0.0,3,None,100,0.0,8,<class 'keras.optimizers.Adam'>,None,tanh
-100,0.2991529266269835,1.0994700689269026,0.28898129384507754,1.0984446141179536,0,<function softmax at 0x1a29e58578>,0.0,6,None,100,0.0,8,<class 'keras.optimizers.Adam'>,None,tanh
-100,0.3053945608559964,1.2327548288841945,0.2993762993762994,1.2442308668039446,0,<function softmax at 0x1a29e58578>,0.0,2,None,100,0.0,32,<class 'keras.optimizers.Adam'>,None,relu
-100,0.40347749574132336,1.3417519933003907,0.41787942796325983,1.3005072426151585,1,<function softmax at 0x1a29e58578>,0.0,5,None,100,0.0,8,<class 'keras.optimizers.Adam'>,None,relu
